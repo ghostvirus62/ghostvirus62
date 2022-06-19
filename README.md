@@ -4,5 +4,5 @@ well ammmm <br/>
 Just a student trying to do my best and help everyone as much as I can.. <br/>
 
 ### Follow
-Do follow me, a little support will be appreciated ;)
+I'll be happy if you check out my work ;)
 
