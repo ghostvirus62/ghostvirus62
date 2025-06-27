@@ -8,7 +8,7 @@
 
 - 🎓 Masters in **Digital Forensics and Information Security** at **National Forensic Sciences University**
 - **Areas:** Web Application Security, Red Teaming, API Hacking, System Administration  
-- I find bugs, report them nicely, and sometimes write poetry about them (in Python)  
+- I sometimes hunt bugs on bounty platforms, report them nicely, and write poetry about them (in Python)
 - I love contributing to the open source community.
 
 **Tools/Skills:**  
@@ -21,12 +21,24 @@
 
 ---
 
-### 🧾 CVE List
+### 🧾 CVE Disclosures
 
 | CVE ID         | Product / Vendor | Vulnerability Type       | Year | Severity | Link |
 |----------------|------------------|---------------------------|------|----------|------|
 | CVE-2025-31117 | OpenEMR          | Blind SSRF                | 2025 | 🔴 High   | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-31117) |
-| CVE-2025-XXXX  | strapi           | CORS Miscofiguration      | 2025 | 🟠 Medium | *Pending Disclosure* |
+| CVE-2025-XXXX  | Strapi           | XX     | 2025 | 🟠 Medium | *Pending Disclosure* |
+
+---
+
+### 🐞 Some Bugs & Responsible Disclosures
+
+| Program / Target | Platform   | Vulnerability Type         | Severity | Status          |
+|------------------|------------|-----------------------------|----------|-----------------|
+| NASA             | Bugcrowd   | API Exposure (x3)           | P3 (x3)    | ❌ Unresolved   |
+| NASA             | Bugcrowd   | SSRF (DNS-only)             | P5     | ✅ Resolved     |
+| NASA             | Bugcrowd   | Reflected XSS (Self)        | P5     | ✅ Resolved     |
+
+> 📝 *Some reports marked P5 couldn’t be escalated further. All submitted with responsible disclosure intent.*
 
 ---
 
@@ -47,6 +59,7 @@
 ### Connect with me and check out my projects here
 
 🔗 LinkedIn: [@ghostvirus](https://www.linkedin.com/in/ghostvirus/)  
+🔗 Medium: [@ghostvirus](https://medium.com/@ghostvirus62) <br>
 📧 Email for engagements: **ghostvirus38@gmail.com**
 
 ---
