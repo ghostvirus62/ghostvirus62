@@ -34,9 +34,9 @@
 
 | Program / Target | Platform   | Vulnerability Type         | Severity | Status          |
 |------------------|------------|-----------------------------|----------|-----------------|
-| NASA             | Bugcrowd   | API Exposure (x3)           | P3 (x3)    | ❌ Unresolved   |
-| NASA             | Bugcrowd   | SSRF (DNS-only)             | P5     | ✅ Resolved     |
-| NASA             | Bugcrowd   | Reflected XSS (Self)        | P5     | ✅ Resolved     |
+| NASA             | Bugcrowd   | API Exposure (x3)           | P3 (x3)    | Resolved   |
+| NASA             | Bugcrowd   | SSRF (DNS-only)             | P5     | Resolved     |
+| NASA             | Bugcrowd   | Reflected XSS (Self)        | P5     | Resolved     |
 
 > 📝 *Some reports marked P5 couldn’t be escalated further. All submitted with responsible disclosure intent.*
 
