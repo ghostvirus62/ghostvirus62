@@ -25,8 +25,8 @@
 
 | CVE ID         | Product / Vendor | Vulnerability Type       | Year | Severity | Link |
 |----------------|------------------|---------------------------|------|----------|------|
-| CVE-2025-31117 | OpenEMR          | Blind SSRF                | 2025 | 🔴 High   | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-31117) |
-| CVE-2025-XXXX  | Strapi           | XX     | 2025 | 🟠 Medium | *Pending Disclosure* |
+| CVE-2025-31117 | OpenEMR          | Blind SSRF                | 2025 | High   | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-31117) |
+| CVE-2025-XXXX  | Strapi           | XX     | 2025 | Critical | *Pending Disclosure* |
 
 ---
 
